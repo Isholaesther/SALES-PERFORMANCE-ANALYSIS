@@ -120,8 +120,8 @@ The Excel dashboard includes:
 - Return rates analysis  
 - Product performance breakdown  
 
-*Example Screenshots:*  
-
+*[Dashboard Screenshots:]*  
+(Annotation 2025-08-16 092957.png)
 
 ---
 
